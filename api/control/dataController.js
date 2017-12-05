@@ -1,6 +1,7 @@
 const mongoose = require('mongoose');
 
 const Champs = require('../model/champion');
+const STATUS_USER_ERROR = 422;
 // app.route('/').get(control.showAllChamps);
 // app
 //   .route('/:id')
