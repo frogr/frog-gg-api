@@ -4,7 +4,9 @@ const mongoose = require('mongoose');
 //   "id": 1,
 //   "key": "Annie",
 //   "name": "Annie"
-const ChampSchema = new mongoose.Schema({
+const Schema = mongoose.Schema;
+
+const ChampSchema = new Schema({
   id: {
     title: {
       type: String,
