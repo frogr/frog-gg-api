@@ -18,12 +18,10 @@ const showAllChamps = (req, res) => {
       res.json(champs);
     })
     .catch(err => {
-      res
-        .status(STATUS_USER_ERROR)
-        .json({
-          '!E':
-            'there probably are no champions in the db right now. try adding some!'
-        });
+      res.status(STATUS_USER_ERROR).json({
+        '!E':
+          'there probably are no champions in the db right now. try adding some!'
+      });
     });
 };
 const showChamp = (req, res) => {
@@ -43,8 +41,8 @@ const showChamp = (req, res) => {
 };
 const addChamp = (req, res) => {
   const { id } = req.params;
-  const { title, key, name } = req.body;
-  const newChamp = new Champs({ title, key, name });
+  const { champId, name, title, key } = req.body;
+  const newChamp = new Champs({ champId, name, title, key });
   newChamp.save(newChamp, (err, champ) => {
     if (err) {
       res.status(500).json({ '!E': err });
