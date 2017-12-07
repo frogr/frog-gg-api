@@ -1,0 +1,26 @@
+{
+  "name": "frog-gg-api",
+  "version": "1.0.0",
+  "description": "API for riot games static champ data",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frogr/frog-gg-api.git"
+  },
+  "author": "frog",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frogr/frog-gg-api/issues"
+  },
+  "homepage": "https://github.com/frogr/frog-gg-api#readme"
+}
