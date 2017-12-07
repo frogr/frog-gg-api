@@ -5,18 +5,18 @@ const mongoose = require('mongoose');
 //   "key": "Annie",
 //   "name": "Annie"
 const ChampSchema = new mongoose.Schema({
-  champId: {
-    type: Number
-  },
-  name: {
-    type: String,
-    required: true
-  },
   title: {
     type: String,
     required: true
   },
+  champId: {
+    type: Number
+  },
   key: {
+    type: String,
+    required: true
+  },
+  name: {
     type: String,
     required: true
   }

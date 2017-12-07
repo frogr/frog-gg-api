@@ -9,7 +9,7 @@ const STATUS_USER_ERROR = 422;
 //   .post(control.addChamp);
 const showAllChamps = (req, res) => {
   Champs.find({})
-    .select('title number key name')
+    .select('title champId key name')
     .exec()
     .then(champs => {
       if (champs.length === 0 || champs === null) {
