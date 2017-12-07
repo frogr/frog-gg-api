@@ -3,7 +3,7 @@ const express = require('express');
 const mongoose = require('mongoose');
 const server = express();
 
-const port = process.env.PORT || 8080;
+const port = process.env.PORT;
 
 const routes = require('./api/route/route');
 mongoose.Promise = global.Promise;
