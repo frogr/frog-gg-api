@@ -48,9 +48,31 @@ const addChamp = (req, res) => {
     res.json({ 'NEW CHAMP': champ });
   });
 };
+const delChamp = (req, res) => {
+  const { id } = req.params;
+  if (!id) {
+    res
+      .status(STATUS_USER_ERROR)
+      .json({ '!E': 'no champion found with that ID!' });
+    return;
+  }
+  Champs.findOne({ id }, (err, champ) => {
+    res.json({ id: 'found and deleting' });
+  })
+    .remove()
+    .exec()
+    .then(champ => {
+      res.json({ champ: 'removed' });
+    })
+    .catch(err => {
+      res.status(STATUS_USER_ERROR).json({ err });
+      return;
+    });
+};
 
 module.exports = {
   showAllChamps,
   showChamp,
-  addChamp
+  addChamp,
+  delChamp
 };

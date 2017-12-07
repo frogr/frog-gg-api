@@ -10,8 +10,7 @@ const ChampSchema = new mongoose.Schema({
     required: true
   },
   id: {
-    type: Number,
-    required: true
+    type: Number
   },
   key: {
     type: String,
