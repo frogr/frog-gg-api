@@ -5,7 +5,7 @@ module.exports = app => {
     .get(control.showAllChamps)
     .post(control.addChamp);
   app
-    .route('/:name')
+    .route('/:id')
     .get(control.showChamp)
     .delete(control.delChamp);
 };

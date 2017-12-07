@@ -9,7 +9,7 @@ const STATUS_USER_ERROR = 422;
 //   .post(control.addChamp);
 const showAllChamps = (req, res) => {
   Champs.find({})
-    .select('title')
+    .select('title number key name')
     .exec()
     .then(champs => {
       if (champs.length === 0 || champs === null) {
@@ -18,7 +18,12 @@ const showAllChamps = (req, res) => {
       res.json(champs);
     })
     .catch(err => {
-      res.status(STATUS_USER_ERROR).json({ '!E': err });
+      res
+        .status(STATUS_USER_ERROR)
+        .json({
+          '!E':
+            'there probably are no champions in the db right now. try adding some!'
+        });
     });
 };
 const showChamp = (req, res) => {
@@ -56,18 +61,13 @@ const delChamp = (req, res) => {
       .json({ '!E': 'no champion found with that ID!' });
     return;
   }
-  Champs.findOne({ id }, (err, champ) => {
-    res.json({ id: 'found and deleting' });
-  })
-    .remove()
-    .exec()
-    .then(champ => {
-      res.json({ champ: 'removed' });
-    })
-    .catch(err => {
-      res.status(STATUS_USER_ERROR).json({ err });
+  Champs.findByIdAndRemove(id, err => {
+    if (err) {
+      res.json({ '!E': 'error! sorry this message doesnt help much!' });
       return;
-    });
+    }
+    res.json({ success: `${id} removed` });
+  });
 };
 
 module.exports = {

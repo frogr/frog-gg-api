@@ -9,8 +9,8 @@ const ChampSchema = new mongoose.Schema({
     type: String,
     required: true
   },
-  id: {
-    type: Number
+  champion: {
+    type: String
   },
   key: {
     type: String,
