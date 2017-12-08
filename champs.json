@@ -1,834 +1,835 @@
-    {
-      "title": "the Dark Child",
-      "champId": 1,
-      "key": "Annie",
-      "name": "Annie"
-    }
-    {
-      "title": "the Berserker",
-      "champId": 2,
-      "key": "Olaf",
-      "name": "Olaf"
-    }
-    {
-      "title": "the Colossus",
-      "champId": 3,
-      "key": "Galio",
-      "name": "Galio"
-    }
-    {
-      "title": "the Card Master",
-      "champId": 4,
-      "key": "TwistedFate",
-      "name": "Twisted Fate"
-    }
-    {
-      "title": "the Seneschal of Demacia",
-      "champId": 5,
-      "key": "XinZhao",
-      "name": "Xin Zhao"
-    }
-    {
-      "title": "the Dreadnought",
-      "champId": 6,
-      "key": "Urgot",
-      "name": "Urgot"
-    }
-    {
-      "title": "the Deceiver",
-      "champId": 7,
-      "key": "Leblanc",
-      "name": "LeBlanc"
-    }
-    {
-      "title": "the Crimson Reaper",
-      "champId": 8,
-      "key": "Vladimir",
-      "name": "Vladimir"
-    }
-    {
-      "title": "the Harbinger of Doom",
-      "champId": 9,
-      "key": "Fiddlesticks",
-      "name": "Fiddlesticks"
-    }
-    {
-      "title": "The Judicator",
-      "champId": 10,
-      "key": "Kayle",
-      "name": "Kayle"
-    }
-    {
-      "title": "the Wuju Bladesman",
-      "champId": 11,
-      "key": "MasterYi",
-      "name": "Master Yi"
-    }
-    {
-      "title": "the Minotaur",
-      "champId": 12,
-      "key": "Alistar",
-      "name": "Alistar"
-    }
-    {
-      "title": "the Rune Mage",
-      "champId": 13,
-      "key": "Ryze",
-      "name": "Ryze"
-    }
-    {
-      "title": "The Undead Juggernaut",
-      "champId": 14,
-      "key": "Sion",
-      "name": "Sion"
-    }
-    {
-      "title": "the Battle Mistress",
-      "champId": 15,
-      "key": "Sivir",
-      "name": "Sivir"
-    }
-    {
-      "title": "the Starchild",
-      "champId": 16,
-      "key": "Soraka",
-      "name": "Soraka"
-    }
-    {
-      "title": "the Swift Scout",
-      "champId": 17,
-      "key": "Teemo",
-      "name": "Teemo"
-    }
-    {
-      "title": "the Yordle Gunner",
-      "champId": 18,
-      "key": "Tristana",
-      "name": "Tristana"
-    }
-    {
-      "title": "the Uncaged Wrath of Zaun",
-      "champId": 19,
-      "key": "Warwick",
-      "name": "Warwick"
-    }
-    {
-      "title": "the Yeti Rider",
-      "champId": 20,
-      "key": "Nunu",
-      "name": "Nunu"
-    }
-    {
-      "title": "the Bounty Hunter",
-      "champId": 21,
-      "key": "MissFortune",
-      "name": "Miss Fortune"
-    }
-    {
-      "title": "the Frost Archer",
-      "champId": 22,
-      "key": "Ashe",
-      "name": "Ashe"
-    }
-    {
-      "title": "the Barbarian King",
-      "champId": 23,
-      "key": "Tryndamere",
-      "name": "Tryndamere"
-    }
-    {
-      "title": "Grandmaster at Arms",
-      "champId": 24,
-      "key": "Jax",
-      "name": "Jax"
-    }
-    {
-      "title": "Fallen Angel",
-      "champId": 25,
-      "key": "Morgana",
-      "name": "Morgana"
-    }
-    {
-      "title": "the Chronokeeper",
-      "champId": 26,
-      "key": "Zilean",
-      "name": "Zilean"
-    }
-    {
-      "title": "the Mad Chemist",
-      "champId": 27,
-      "key": "Singed",
-      "name": "Singed"
-    }
-    {
-      "title": "Agony's Embrace",
-      "champId": 28,
-      "key": "Evelynn",
-      "name": "Evelynn"
-    }
-    {
-      "title": "the Plague Rat",
-      "champId": 29,
-      "key": "Twitch",
-      "name": "Twitch"
-    }
-    {
-      "title": "the Deathsinger",
-      "champId": 30,
-      "key": "Karthus",
-      "name": "Karthus"
-    }
-    {
-      "title": "the Terror of the VochampId",
-      "champId": 31,
-      "key": "Chogath",
-      "name": "Cho'Gath"
-    }
-    {
-      "title": "the Sad Mummy",
-      "champId": 32,
-      "key": "Amumu",
-      "name": "Amumu"
-    }
-    {
-      "title": "the Armordillo",
-      "champId": 33,
-      "key": "Rammus",
-      "name": "Rammus"
-    }
-    {
-      "title": "the Cryophoenix",
-      "champId": 34,
-      "key": "Anivia",
-      "name": "Anivia"
-    }
-    {
-      "title": "the Demon Jester",
-      "champId": 35,
-      "key": "Shaco",
-      "name": "Shaco"
-    }
-    {
-      "title": "the Madman of Zaun",
-      "champId": 36,
-      "key": "DrMundo",
-      "name": "Dr. Mundo"
-    }
-    {
-      "title": "Maven of the Strings",
-      "champId": 37,
-      "key": "Sona",
-      "name": "Sona"
-    }
-    {
-      "title": "the Void Walker",
-      "champId": 38,
-      "key": "Kassadin",
-      "name": "Kassadin"
-    }
-    {
-      "title": "the Will of the Blades",
-      "champId": 39,
-      "key": "Irelia",
-      "name": "Irelia"
-    }
-    {
-      "title": "the Storm's Fury",
-      "champId": 40,
-      "key": "Janna",
-      "name": "Janna"
-    }
-    {
-      "title": "the Saltwater Scourge",
-      "champId": 41,
-      "key": "Gangplank",
-      "name": "Gangplank"
-    }
-    {
-      "title": "the Daring Bombardier",
-      "champId": 42,
-      "key": "Corki",
-      "name": "Corki"
-    }
-    {
-      "title": "the Enlightened One",
-      "champId": 43,
-      "key": "Karma",
-      "name": "Karma"
-    }
-    {
-      "title": "the Shield of Valoran",
-      "champId": 44,
-      "key": "Taric",
-      "name": "Taric"
-    }
-    {
-      "title": "the Tiny Master of Evil",
-      "champId": 45,
-      "key": "Veigar",
-      "name": "Veigar"
-    }
-    {
-      "title": "the Troll King",
-      "champId": 48,
-      "key": "Trundle",
-      "name": "Trundle"
-    }
-    {
-      "title": "the Master Tactician",
-      "champId": 50,
-      "key": "Swain",
-      "name": "Swain"
-    }
-    {
-      "title": "the Sheriff of Piltover",
-      "champId": 51,
-      "key": "Caitlyn",
-      "name": "Caitlyn"
-    }
-    {
-      "title": "the Great Steam Golem",
-      "champId": 53,
-      "key": "Blitzcrank",
-      "name": "Blitzcrank"
-    }
-    {
-      "title": "Shard of the Monolith",
-      "champId": 54,
-      "key": "Malphite",
-      "name": "Malphite"
-    }
-    {
-      "title": "the Sinister Blade",
-      "champId": 55,
-      "key": "Katarina",
-      "name": "Katarina"
-    }
-    {
-      "title": "the Eternal Nightmare",
-      "champId": 56,
-      "key": "Nocturne",
-      "name": "Nocturne"
-    }
-    {
-      "title": "the Twisted Treant",
-      "champId": 57,
-      "key": "Maokai",
-      "name": "Maokai"
-    }
-    {
-      "title": "the Butcher of the Sands",
-      "champId": 58,
-      "key": "Renekton",
-      "name": "Renekton"
-    }
-    {
-      "title": "the Exemplar of Demacia",
-      "champId": 59,
-      "key": "JarvanIV",
-      "name": "Jarvan IV"
-    }
-    {
-      "title": "the SpchampIder Queen",
-      "champId": 60,
-      "key": "Elise",
-      "name": "Elise"
-    }
-    {
-      "title": "the Lady of Clockwork",
-      "champId": 61,
-      "key": "Orianna",
-      "name": "Orianna"
-    }
-    {
-      "title": "the Monkey King",
-      "champId": 62,
-      "key": "MonkeyKing",
-      "name": "Wukong"
-    }
-    {
-      "title": "the Burning Vengeance",
-      "champId": 63,
-      "key": "Brand",
-      "name": "Brand"
-    }
-    {
-      "title": "the Blind Monk",
-      "champId": 64,
-      "key": "LeeSin",
-      "name": "Lee Sin"
-    }
-    {
-      "title": "the Night Hunter",
-      "champId": 67,
-      "key": "Vayne",
-      "name": "Vayne"
-    }
-    {
-      "title": "the Mechanized Menace",
-      "champId": 68,
-      "key": "Rumble",
-      "name": "Rumble"
-    }
-    {
-      "title": "the Serpent's Embrace",
-      "champId": 69,
-      "key": "Cassiopeia",
-      "name": "Cassiopeia"
-    }
-    {
-      "title": "the Crystal Vanguard",
-      "champId": 72,
-      "key": "Skarner",
-      "name": "Skarner"
-    }
-    {
-      "title": "the Revered Inventor",
-      "champId": 74,
-      "key": "Heimerdinger",
-      "name": "Heimerdinger"
-    }
-    {
-      "title": "the Curator of the Sands",
-      "champId": 75,
-      "key": "Nasus",
-      "name": "Nasus"
-    }
-    {
-      "title": "the Bestial Huntress",
-      "champId": 76,
-      "key": "NchampIdalee",
-      "name": "NchampIdalee"
-    }
-    {
-      "title": "the Spirit Walker",
-      "champId": 77,
-      "key": "Udyr",
-      "name": "Udyr"
-    }
-    {
-      "title": "Keeper of the Hammer",
-      "champId": 78,
-      "key": "Poppy",
-      "name": "Poppy"
-    }
-    {
-      "title": "the Rabble Rouser",
-      "champId": 79,
-      "key": "Gragas",
-      "name": "Gragas"
-    }
-    {
-      "title": "the Artisan of War",
-      "champId": 80,
-      "key": "Pantheon",
-      "name": "Pantheon"
-    }
-    {
-      "title": "the Prodigal Explorer",
-      "champId": 81,
-      "key": "Ezreal",
-      "name": "Ezreal"
-    }
-    {
-      "title": "the Iron Revenant",
-      "champId": 82,
-      "key": "Mordekaiser",
-      "name": "Mordekaiser"
-    }
-    {
-      "title": "Shepherd of Souls",
-      "champId": 83,
-      "key": "Yorick",
-      "name": "Yorick"
-    }
-    {
-      "title": "the Fist of Shadow",
-      "champId": 84,
-      "key": "Akali",
-      "name": "Akali"
-    }
-    {
-      "title": "the Heart of the Tempest",
-      "champId": 85,
-      "key": "Kennen",
-      "name": "Kennen"
-    }
-    {
-      "title": "The Might of Demacia",
-      "champId": 86,
-      "key": "Garen",
-      "name": "Garen"
-    }
-    {
-      "title": "the Radiant Dawn",
-      "champId": 89,
-      "key": "Leona",
-      "name": "Leona"
-    }
-    {
-      "title": "the Prophet of the VochampId",
-      "champId": 90,
-      "key": "Malzahar",
-      "name": "Malzahar"
-    }
-    {
-      "title": "the Blade's Shadow",
-      "champId": 91,
-      "key": "Talon",
-      "name": "Talon"
-    }
-    {
-      "title": "the Exile",
-      "champId": 92,
-      "key": "Riven",
-      "name": "Riven"
-    }
-    {
-      "title": "the Mouth of the Abyss",
-      "champId": 96,
-      "key": "KogMaw",
-      "name": "Kog'Maw"
-    }
-    {
-      "title": "the Eye of Twilight",
-      "champId": 98,
-      "key": "Shen",
-      "name": "Shen"
-    }
-    {
-      "title": "the Lady of Luminosity",
-      "champId": 99,
-      "key": "Lux",
-      "name": "Lux"
-    }
-    {
-      "title": "the Magus Ascendant",
-      "champId": 101,
-      "key": "Xerath",
-      "name": "Xerath"
-    }
-    {
-      "title": "the Half-Dragon",
-      "champId": 102,
-      "key": "Shyvana",
-      "name": "Shyvana"
-    }
-    {
-      "title": "the Nine-Tailed Fox",
-      "champId": 103,
-      "key": "Ahri",
-      "name": "Ahri"
-    }
-    {
-      "title": "the Outlaw",
-      "champId": 104,
-      "key": "Graves",
-      "name": "Graves"
-    }
-    {
-      "title": "the TchampIdal Trickster",
-      "champId": 105,
-      "key": "Fizz",
-      "name": "Fizz"
-    }
-    {
-      "title": "the Thunder's Roar",
-      "champId": 106,
-      "key": "Volibear",
-      "name": "Volibear"
-    }
-    {
-      "title": "the Pridestalker",
-      "champId": 107,
-      "key": "Rengar",
-      "name": "Rengar"
-    }
-    {
-      "title": "the Arrow of Retribution",
-      "champId": 110,
-      "key": "Varus",
-      "name": "Varus"
-    }
-    {
-      "title": "the Titan of the Depths",
-      "champId": 111,
-      "key": "Nautilus",
-      "name": "Nautilus"
-    }
-    {
-      "title": "the Machine Herald",
-      "champId": 112,
-      "key": "Viktor",
-      "name": "Viktor"
-    }
-    {
-      "title": "Fury of the North",
-      "champId": 113,
-      "key": "Sejuani",
-      "name": "Sejuani"
-    }
-    {
-      "title": "the Grand Duelist",
-      "champId": 114,
-      "key": "Fiora",
-      "name": "Fiora"
-    }
-    {
-      "title": "the Hexplosives Expert",
-      "champId": 115,
-      "key": "Ziggs",
-      "name": "Ziggs"
-    }
-    {
-      "title": "the Fae Sorceress",
-      "champId": 117,
-      "key": "Lulu",
-      "name": "Lulu"
-    }
-    {
-      "title": "the Glorious Executioner",
-      "champId": 119,
-      "key": "Draven",
-      "name": "Draven"
-    }
-    {
-      "title": "the Shadow of War",
-      "champId": 120,
-      "key": "Hecarim",
-      "name": "Hecarim"
-    }
-    {
-      "title": "the Voidreaver",
-      "champId": 121,
-      "key": "Khazix",
-      "name": "Kha'Zix"
-    }
-    {
-      "title": "the Hand of Noxus",
-      "champId": 122,
-      "key": "Darius",
-      "name": "Darius"
-    }
-    {
-      "title": "the Defender of Tomorrow",
-      "champId": 126,
-      "key": "Jayce",
-      "name": "Jayce"
-    }
-    {
-      "title": "the Ice Witch",
-      "champId": 127,
-      "key": "Lissandra",
-      "name": "Lissandra"
-    }
-    {
-      "title": "Scorn of the Moon",
-      "champId": 131,
-      "key": "Diana",
-      "name": "Diana"
-    }
-    {
-      "title": "Demacia's Wings",
-      "champId": 133,
-      "key": "Quinn",
-      "name": "Quinn"
-    }
-    {
-      "title": "the Dark Sovereign",
-      "champId": 134,
-      "key": "Syndra",
-      "name": "Syndra"
-    }
-    {
-      "title": "The Star Forger",
-      "champId": 136,
-      "key": "AurelionSol",
-      "name": "Aurelion Sol"
-    }
-    {
-      "title": "the Shadow Reaper",
-      "champId": 141,
-      "key": "Kayn",
-      "name": "Kayn"
-    }
-    {
-      "title": "the Aspect of Twilight",
-      "champId": 142,
-      "key": "Zoe",
-      "name": "Zoe"
-    }
-    {
-      "title": "Rise of the Thorns",
-      "champId": 143,
-      "key": "Zyra",
-      "name": "Zyra"
-    }
-    {
-      "title": "the Missing Link",
-      "champId": 150,
-      "key": "Gnar",
-      "name": "Gnar"
-    }
-    {
-      "title": "the Secret Weapon",
-      "champId": 154,
-      "key": "Zac",
-      "name": "Zac"
-    }
-    {
-      "title": "the Unforgiven",
-      "champId": 157,
-      "key": "Yasuo",
-      "name": "Yasuo"
-    }
-    {
-      "title": "the Eye of the Void",
-      "champId": 161,
-      "key": "Velkoz",
-      "name": "Vel'Koz"
-    }
-    {
-      "title": "the Stoneweaver",
-      "champId": 163,
-      "key": "Taliyah",
-      "name": "Taliyah"
-    }
-    {
-      "title": "the Steel Shadow",
-      "champId": 164,
-      "key": "Camille",
-      "name": "Camille"
-    }
-    {
-      "title": "the Heart of the Freljord",
-      "champId": 201,
-      "key": "Braum",
-      "name": "Braum"
-    }
-    {
-      "title": "the Virtuoso",
-      "champId": 202,
-      "key": "Jhin",
-      "name": "Jhin"
-    }
-    {
-      "title": "The Eternal Hunters",
-      "champId": 203,
-      "key": "Kindred",
-      "name": "Kindred"
-    }
-    {
-      "title": "the Loose Cannon",
-      "champId": 222,
-      "key": "Jinx",
-      "name": "Jinx"
-    }
-    {
-      "title": "the River King",
-      "champId": 223,
-      "key": "TahmKench",
-      "name": "Tahm Kench"
-    }
-    {
-      "title": "the Purifier",
-      "champId": 236,
-      "key": "Lucian",
-      "name": "Lucian"
-    }
-    {
-      "title": "the Master of Shadows",
-      "champId": 238,
-      "key": "Zed",
-      "name": "Zed"
-    }
-    {
-      "title": "the Cantankerous Cavalier",
-      "champId": 240,
-      "key": "Kled",
-      "name": "Kled"
-    }
-    {
-      "title": "the Boy Who Shattered Time",
-      "champId": 245,
-      "key": "Ekko",
-      "name": "Ekko"
-    }
-    {
-      "title": "the Piltover Enforcer",
-      "champId": 254,
-      "key": "Vi",
-      "name": "Vi"
-    }
-    {
-      "title": "the Darkin Blade",
-      "champId": 266,
-      "key": "Aatrox",
-      "name": "Aatrox"
-    }
-    {
-      "title": "the TchampIdecaller",
-      "champId": 267,
-      "key": "Nami",
-      "name": "Nami"
-    }
-    {
-      "title": "the Emperor of the Sands",
-      "champId": 268,
-      "key": "Azir",
-      "name": "Azir"
-    }
-    {
-      "title": "the Chain Warden",
-      "champId": 412,
-      "key": "Thresh",
-      "name": "Thresh"
-    }
-    {
-      "title": "the Kraken Priestess",
-      "champId": 420,
-      "key": "Illaoi",
-      "name": "Illaoi"
-    }
-    {
-      "title": "the VochampId Burrower",
-      "champId": 421,
-      "key": "RekSai",
-      "name": "Rek'Sai"
-    }
-    {
-      "title": "the Green Father",
-      "champId": 427,
-      "key": "Ivern",
-      "name": "Ivern"
-    }
-    {
-      "title": "the Spear of Vengeance",
-      "champId": 429,
-      "key": "Kalista",
-      "name": "Kalista"
-    }
-    {
-      "title": "the Wandering Caretaker",
-      "champId": 432,
-      "key": "Bard",
-      "name": "Bard"
-    }
-    {
-      "title": "The Charmer",
-      "champId": 497,
-      "key": "Rakan",
-      "name": "Rakan"
-    }
-    {
-      "title": "the Rebel",
-      "champId": 498,
-      "key": "Xayah",
-      "name": "Xayah"
-    }
-    {
-      "title": "The Fire below the Mountain",
-      "champId": 516,
-      "key": "Ornn",
-      "name": "Ornn"
-    }
+
+  {
+    "title": "the Dark Child",
+    "champId": 1,
+    "key": "Annie",
+    "name": "Annie"
+  }
+  {
+    "title": "the Berserker",
+    "champId": 2,
+    "key": "Olaf",
+    "name": "Olaf"
+  }
+  {
+    "title": "the Colossus",
+    "champId": 3,
+    "key": "Galio",
+    "name": "Galio"
+  }
+  {
+    "title": "the Card Master",
+    "champId": 4,
+    "key": "TwistedFate",
+    "name": "Twisted Fate"
+  }
+  {
+    "title": "the Seneschal of Demacia",
+    "champId": 5,
+    "key": "XinZhao",
+    "name": "Xin Zhao"
+  }
+  {
+    "title": "the Dreadnought",
+    "champId": 6,
+    "key": "Urgot",
+    "name": "Urgot"
+  }
+  {
+    "title": "the Deceiver",
+    "champId": 7,
+    "key": "Leblanc",
+    "name": "LeBlanc"
+  }
+  {
+    "title": "the Crimson Reaper",
+    "champId": 8,
+    "key": "Vladimir",
+    "name": "Vladimir"
+  }
+  {
+    "title": "the Harbinger of Doom",
+    "champId": 9,
+    "key": "Fiddlesticks",
+    "name": "Fiddlesticks"
+  }
+  {
+    "title": "The Judicator",
+    "champId": 10,
+    "key": "Kayle",
+    "name": "Kayle"
+  }
+  {
+    "title": "the Wuju Bladesman",
+    "champId": 11,
+    "key": "MasterYi",
+    "name": "Master Yi"
+  }
+  {
+    "title": "the Minotaur",
+    "champId": 12,
+    "key": "Alistar",
+    "name": "Alistar"
+  }
+  {
+    "title": "the Rune Mage",
+    "champId": 13,
+    "key": "Ryze",
+    "name": "Ryze"
+  }
+  {
+    "title": "The Undead Juggernaut",
+    "champId": 14,
+    "key": "Sion",
+    "name": "Sion"
+  }
+  {
+    "title": "the Battle Mistress",
+    "champId": 15,
+    "key": "Sivir",
+    "name": "Sivir"
+  }
+  {
+    "title": "the Starchild",
+    "champId": 16,
+    "key": "Soraka",
+    "name": "Soraka"
+  }
+  {
+    "title": "the Swift Scout",
+    "champId": 17,
+    "key": "Teemo",
+    "name": "Teemo"
+  }
+  {
+    "title": "the Yordle Gunner",
+    "champId": 18,
+    "key": "Tristana",
+    "name": "Tristana"
+  }
+  {
+    "title": "the Uncaged Wrath of Zaun",
+    "champId": 19,
+    "key": "Warwick",
+    "name": "Warwick"
+  }
+  {
+    "title": "the Yeti Rider",
+    "champId": 20,
+    "key": "Nunu",
+    "name": "Nunu"
+  }
+  {
+    "title": "the Bounty Hunter",
+    "champId": 21,
+    "key": "MissFortune",
+    "name": "Miss Fortune"
+  }
+  {
+    "title": "the Frost Archer",
+    "champId": 22,
+    "key": "Ashe",
+    "name": "Ashe"
+  }
+  {
+    "title": "the Barbarian King",
+    "champId": 23,
+    "key": "Tryndamere",
+    "name": "Tryndamere"
+  }
+  {
+    "title": "Grandmaster at Arms",
+    "champId": 24,
+    "key": "Jax",
+    "name": "Jax"
+  }
+  {
+    "title": "Fallen Angel",
+    "champId": 25,
+    "key": "Morgana",
+    "name": "Morgana"
+  }
+  {
+    "title": "the Chronokeeper",
+    "champId": 26,
+    "key": "Zilean",
+    "name": "Zilean"
+  }
+  {
+    "title": "the Mad Chemist",
+    "champId": 27,
+    "key": "Singed",
+    "name": "Singed"
+  }
+  {
+    "title": "Agony's Embrace",
+    "champId": 28,
+    "key": "Evelynn",
+    "name": "Evelynn"
+  }
+  {
+    "title": "the Plague Rat",
+    "champId": 29,
+    "key": "Twitch",
+    "name": "Twitch"
+  }
+  {
+    "title": "the Deathsinger",
+    "champId": 30,
+    "key": "Karthus",
+    "name": "Karthus"
+  }
+  {
+    "title": "the Terror of the VochampId",
+    "champId": 31,
+    "key": "Chogath",
+    "name": "Cho'Gath"
+  }
+  {
+    "title": "the Sad Mummy",
+    "champId": 32,
+    "key": "Amumu",
+    "name": "Amumu"
+  }
+  {
+    "title": "the Armordillo",
+    "champId": 33,
+    "key": "Rammus",
+    "name": "Rammus"
+  }
+  {
+    "title": "the Cryophoenix",
+    "champId": 34,
+    "key": "Anivia",
+    "name": "Anivia"
+  }
+  {
+    "title": "the Demon Jester",
+    "champId": 35,
+    "key": "Shaco",
+    "name": "Shaco"
+  }
+  {
+    "title": "the Madman of Zaun",
+    "champId": 36,
+    "key": "DrMundo",
+    "name": "Dr. Mundo"
+  }
+  {
+    "title": "Maven of the Strings",
+    "champId": 37,
+    "key": "Sona",
+    "name": "Sona"
+  }
+  {
+    "title": "the Void Walker",
+    "champId": 38,
+    "key": "Kassadin",
+    "name": "Kassadin"
+  }
+  {
+    "title": "the Will of the Blades",
+    "champId": 39,
+    "key": "Irelia",
+    "name": "Irelia"
+  }
+  {
+    "title": "the Storm's Fury",
+    "champId": 40,
+    "key": "Janna",
+    "name": "Janna"
+  }
+  {
+    "title": "the Saltwater Scourge",
+    "champId": 41,
+    "key": "Gangplank",
+    "name": "Gangplank"
+  }
+  {
+    "title": "the Daring Bombardier",
+    "champId": 42,
+    "key": "Corki",
+    "name": "Corki"
+  }
+  {
+    "title": "the Enlightened One",
+    "champId": 43,
+    "key": "Karma",
+    "name": "Karma"
+  }
+  {
+    "title": "the Shield of Valoran",
+    "champId": 44,
+    "key": "Taric",
+    "name": "Taric"
+  }
+  {
+    "title": "the Tiny Master of Evil",
+    "champId": 45,
+    "key": "Veigar",
+    "name": "Veigar"
+  }
+  {
+    "title": "the Troll King",
+    "champId": 48,
+    "key": "Trundle",
+    "name": "Trundle"
+  }
+  {
+    "title": "the Master Tactician",
+    "champId": 50,
+    "key": "Swain",
+    "name": "Swain"
+  }
+  {
+    "title": "the Sheriff of Piltover",
+    "champId": 51,
+    "key": "Caitlyn",
+    "name": "Caitlyn"
+  }
+  {
+    "title": "the Great Steam Golem",
+    "champId": 53,
+    "key": "Blitzcrank",
+    "name": "Blitzcrank"
+  }
+  {
+    "title": "Shard of the Monolith",
+    "champId": 54,
+    "key": "Malphite",
+    "name": "Malphite"
+  }
+  {
+    "title": "the Sinister Blade",
+    "champId": 55,
+    "key": "Katarina",
+    "name": "Katarina"
+  }
+  {
+    "title": "the Eternal Nightmare",
+    "champId": 56,
+    "key": "Nocturne",
+    "name": "Nocturne"
+  }
+  {
+    "title": "the Twisted Treant",
+    "champId": 57,
+    "key": "Maokai",
+    "name": "Maokai"
+  }
+  {
+    "title": "the Butcher of the Sands",
+    "champId": 58,
+    "key": "Renekton",
+    "name": "Renekton"
+  }
+  {
+    "title": "the Exemplar of Demacia",
+    "champId": 59,
+    "key": "JarvanIV",
+    "name": "Jarvan IV"
+  }
+  {
+    "title": "the SpchampIder Queen",
+    "champId": 60,
+    "key": "Elise",
+    "name": "Elise"
+  }
+  {
+    "title": "the Lady of Clockwork",
+    "champId": 61,
+    "key": "Orianna",
+    "name": "Orianna"
+  }
+  {
+    "title": "the Monkey King",
+    "champId": 62,
+    "key": "MonkeyKing",
+    "name": "Wukong"
+  }
+  {
+    "title": "the Burning Vengeance",
+    "champId": 63,
+    "key": "Brand",
+    "name": "Brand"
+  }
+  {
+    "title": "the Blind Monk",
+    "champId": 64,
+    "key": "LeeSin",
+    "name": "Lee Sin"
+  }
+  {
+    "title": "the Night Hunter",
+    "champId": 67,
+    "key": "Vayne",
+    "name": "Vayne"
+  }
+  {
+    "title": "the Mechanized Menace",
+    "champId": 68,
+    "key": "Rumble",
+    "name": "Rumble"
+  }
+  {
+    "title": "the Serpent's Embrace",
+    "champId": 69,
+    "key": "Cassiopeia",
+    "name": "Cassiopeia"
+  }
+  {
+    "title": "the Crystal Vanguard",
+    "champId": 72,
+    "key": "Skarner",
+    "name": "Skarner"
+  }
+  {
+    "title": "the Revered Inventor",
+    "champId": 74,
+    "key": "Heimerdinger",
+    "name": "Heimerdinger"
+  }
+  {
+    "title": "the Curator of the Sands",
+    "champId": 75,
+    "key": "Nasus",
+    "name": "Nasus"
+  }
+  {
+    "title": "the Bestial Huntress",
+    "champId": 76,
+    "key": "Nidalee",
+    "name": "Nidalee"
+  }
+  {
+    "title": "the Spirit Walker",
+    "champId": 77,
+    "key": "Udyr",
+    "name": "Udyr"
+  }
+  {
+    "title": "Keeper of the Hammer",
+    "champId": 78,
+    "key": "Poppy",
+    "name": "Poppy"
+  }
+  {
+    "title": "the Rabble Rouser",
+    "champId": 79,
+    "key": "Gragas",
+    "name": "Gragas"
+  }
+  {
+    "title": "the Artisan of War",
+    "champId": 80,
+    "key": "Pantheon",
+    "name": "Pantheon"
+  }
+  {
+    "title": "the Prodigal Explorer",
+    "champId": 81,
+    "key": "Ezreal",
+    "name": "Ezreal"
+  }
+  {
+    "title": "the Iron Revenant",
+    "champId": 82,
+    "key": "Mordekaiser",
+    "name": "Mordekaiser"
+  }
+  {
+    "title": "Shepherd of Souls",
+    "champId": 83,
+    "key": "Yorick",
+    "name": "Yorick"
+  }
+  {
+    "title": "the Fist of Shadow",
+    "champId": 84,
+    "key": "Akali",
+    "name": "Akali"
+  }
+  {
+    "title": "the Heart of the Tempest",
+    "champId": 85,
+    "key": "Kennen",
+    "name": "Kennen"
+  }
+  {
+    "title": "The Might of Demacia",
+    "champId": 86,
+    "key": "Garen",
+    "name": "Garen"
+  }
+  {
+    "title": "the Radiant Dawn",
+    "champId": 89,
+    "key": "Leona",
+    "name": "Leona"
+  }
+  {
+    "title": "the Prophet of the VochampId",
+    "champId": 90,
+    "key": "Malzahar",
+    "name": "Malzahar"
+  }
+  {
+    "title": "the Blade's Shadow",
+    "champId": 91,
+    "key": "Talon",
+    "name": "Talon"
+  }
+  {
+    "title": "the Exile",
+    "champId": 92,
+    "key": "Riven",
+    "name": "Riven"
+  }
+  {
+    "title": "the Mouth of the Abyss",
+    "champId": 96,
+    "key": "KogMaw",
+    "name": "Kog'Maw"
+  }
+  {
+    "title": "the Eye of Twilight",
+    "champId": 98,
+    "key": "Shen",
+    "name": "Shen"
+  }
+  {
+    "title": "the Lady of Luminosity",
+    "champId": 99,
+    "key": "Lux",
+    "name": "Lux"
+  }
+  {
+    "title": "the Magus Ascendant",
+    "champId": 101,
+    "key": "Xerath",
+    "name": "Xerath"
+  }
+  {
+    "title": "the Half-Dragon",
+    "champId": 102,
+    "key": "Shyvana",
+    "name": "Shyvana"
+  }
+  {
+    "title": "the Nine-Tailed Fox",
+    "champId": 103,
+    "key": "Ahri",
+    "name": "Ahri"
+  }
+  {
+    "title": "the Outlaw",
+    "champId": 104,
+    "key": "Graves",
+    "name": "Graves"
+  }
+  {
+    "title": "the TchampIdal Trickster",
+    "champId": 105,
+    "key": "Fizz",
+    "name": "Fizz"
+  }
+  {
+    "title": "the Thunder's Roar",
+    "champId": 106,
+    "key": "Volibear",
+    "name": "Volibear"
+  }
+  {
+    "title": "the Pridestalker",
+    "champId": 107,
+    "key": "Rengar",
+    "name": "Rengar"
+  }
+  {
+    "title": "the Arrow of Retribution",
+    "champId": 110,
+    "key": "Varus",
+    "name": "Varus"
+  }
+  {
+    "title": "the Titan of the Depths",
+    "champId": 111,
+    "key": "Nautilus",
+    "name": "Nautilus"
+  }
+  {
+    "title": "the Machine Herald",
+    "champId": 112,
+    "key": "Viktor",
+    "name": "Viktor"
+  }
+  {
+    "title": "Fury of the North",
+    "champId": 113,
+    "key": "Sejuani",
+    "name": "Sejuani"
+  }
+  {
+    "title": "the Grand Duelist",
+    "champId": 114,
+    "key": "Fiora",
+    "name": "Fiora"
+  }
+  {
+    "title": "the Hexplosives Expert",
+    "champId": 115,
+    "key": "Ziggs",
+    "name": "Ziggs"
+  }
+  {
+    "title": "the Fae Sorceress",
+    "champId": 117,
+    "key": "Lulu",
+    "name": "Lulu"
+  }
+  {
+    "title": "the Glorious Executioner",
+    "champId": 119,
+    "key": "Draven",
+    "name": "Draven"
+  }
+  {
+    "title": "the Shadow of War",
+    "champId": 120,
+    "key": "Hecarim",
+    "name": "Hecarim"
+  }
+  {
+    "title": "the Voidreaver",
+    "champId": 121,
+    "key": "Khazix",
+    "name": "Kha'Zix"
+  }
+  {
+    "title": "the Hand of Noxus",
+    "champId": 122,
+    "key": "Darius",
+    "name": "Darius"
+  }
+  {
+    "title": "the Defender of Tomorrow",
+    "champId": 126,
+    "key": "Jayce",
+    "name": "Jayce"
+  }
+  {
+    "title": "the Ice Witch",
+    "champId": 127,
+    "key": "Lissandra",
+    "name": "Lissandra"
+  }
+  {
+    "title": "Scorn of the Moon",
+    "champId": 131,
+    "key": "Diana",
+    "name": "Diana"
+  }
+  {
+    "title": "Demacia's Wings",
+    "champId": 133,
+    "key": "Quinn",
+    "name": "Quinn"
+  }
+  {
+    "title": "the Dark Sovereign",
+    "champId": 134,
+    "key": "Syndra",
+    "name": "Syndra"
+  }
+  {
+    "title": "The Star Forger",
+    "champId": 136,
+    "key": "AurelionSol",
+    "name": "Aurelion Sol"
+  }
+  {
+    "title": "the Shadow Reaper",
+    "champId": 141,
+    "key": "Kayn",
+    "name": "Kayn"
+  }
+  {
+    "title": "the Aspect of Twilight",
+    "champId": 142,
+    "key": "Zoe",
+    "name": "Zoe"
+  }
+  {
+    "title": "Rise of the Thorns",
+    "champId": 143,
+    "key": "Zyra",
+    "name": "Zyra"
+  }
+  {
+    "title": "the Missing Link",
+    "champId": 150,
+    "key": "Gnar",
+    "name": "Gnar"
+  }
+  {
+    "title": "the Secret Weapon",
+    "champId": 154,
+    "key": "Zac",
+    "name": "Zac"
+  }
+  {
+    "title": "the Unforgiven",
+    "champId": 157,
+    "key": "Yasuo",
+    "name": "Yasuo"
+  }
+  {
+    "title": "the Eye of the Void",
+    "champId": 161,
+    "key": "Velkoz",
+    "name": "Vel'Koz"
+  }
+  {
+    "title": "the Stoneweaver",
+    "champId": 163,
+    "key": "Taliyah",
+    "name": "Taliyah"
+  }
+  {
+    "title": "the Steel Shadow",
+    "champId": 164,
+    "key": "Camille",
+    "name": "Camille"
+  }
+  {
+    "title": "the Heart of the Freljord",
+    "champId": 201,
+    "key": "Braum",
+    "name": "Braum"
+  }
+  {
+    "title": "the Virtuoso",
+    "champId": 202,
+    "key": "Jhin",
+    "name": "Jhin"
+  }
+  {
+    "title": "The Eternal Hunters",
+    "champId": 203,
+    "key": "Kindred",
+    "name": "Kindred"
+  }
+  {
+    "title": "the Loose Cannon",
+    "champId": 222,
+    "key": "Jinx",
+    "name": "Jinx"
+  }
+  {
+    "title": "the River King",
+    "champId": 223,
+    "key": "TahmKench",
+    "name": "Tahm Kench"
+  }
+  {
+    "title": "the Purifier",
+    "champId": 236,
+    "key": "Lucian",
+    "name": "Lucian"
+  }
+  {
+    "title": "the Master of Shadows",
+    "champId": 238,
+    "key": "Zed",
+    "name": "Zed"
+  }
+  {
+    "title": "the Cantankerous Cavalier",
+    "champId": 240,
+    "key": "Kled",
+    "name": "Kled"
+  }
+  {
+    "title": "the Boy Who Shattered Time",
+    "champId": 245,
+    "key": "Ekko",
+    "name": "Ekko"
+  }
+  {
+    "title": "the Piltover Enforcer",
+    "champId": 254,
+    "key": "Vi",
+    "name": "Vi"
+  }
+  {
+    "title": "the Darkin Blade",
+    "champId": 266,
+    "key": "Aatrox",
+    "name": "Aatrox"
+  }
+  {
+    "title": "the TchampIdecaller",
+    "champId": 267,
+    "key": "Nami",
+    "name": "Nami"
+  }
+  {
+    "title": "the Emperor of the Sands",
+    "champId": 268,
+    "key": "Azir",
+    "name": "Azir"
+  }
+  {
+    "title": "the Chain Warden",
+    "champId": 412,
+    "key": "Thresh",
+    "name": "Thresh"
+  }
+  {
+    "title": "the Kraken Priestess",
+    "champId": 420,
+    "key": "Illaoi",
+    "name": "Illaoi"
+  }
+  {
+    "title": "the VochampId Burrower",
+    "champId": 421,
+    "key": "RekSai",
+    "name": "Rek'Sai"
+  }
+  {
+    "title": "the Green Father",
+    "champId": 427,
+    "key": "Ivern",
+    "name": "Ivern"
+  }
+  {
+    "title": "the Spear of Vengeance",
+    "champId": 429,
+    "key": "Kalista",
+    "name": "Kalista"
+  }
+  {
+    "title": "the Wandering Caretaker",
+    "champId": 432,
+    "key": "Bard",
+    "name": "Bard"
+  }
+  {
+    "title": "The Charmer",
+    "champId": 497,
+    "key": "Rakan",
+    "name": "Rakan"
+  }
+  {
+    "title": "the Rebel",
+    "champId": 498,
+    "key": "Xayah",
+    "name": "Xayah"
+  }
+  {
+    "title": "The Fire below the Mountain",
+    "champId": 516,
+    "key": "Ornn",
+    "name": "Ornn"
+  }
