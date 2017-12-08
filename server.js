@@ -4,10 +4,11 @@ const mongoose = require('mongoose');
 const server = express();
 
 const port = process.env.PORT;
+const uri = process.env.MONGODB_URI || 'mongodb://localhost/champions/';
 
 const routes = require('./api/route/route');
 mongoose.Promise = global.Promise;
-mongoose.connect(MONGODB_URI, { useMongoClient: true });
+mongoose.connect(process.env.MONGODB_URI, { useMongoClient: true });
 
 server.use(bodyParser.json());
 
