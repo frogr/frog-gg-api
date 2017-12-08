@@ -8,7 +8,7 @@ const uri = process.env.MONGODB_URI || 'mongodb://localhost/champions/';
 
 const routes = require('./api/route/route');
 mongoose.Promise = global.Promise;
-mongoose.connect(process.env.MONGODB_URI, { useMongoClient: true });
+mongoose.connect(uri, { useMongoClient: true });
 
 server.use(bodyParser.json());
 
