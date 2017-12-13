@@ -3,8 +3,8 @@ const express = require('express');
 const mongoose = require('mongoose');
 const server = express();
 
-const port = process.env.PORT;
-const uri = process.env.MONGODB_URI || 'mongodb://localhost/champions/';
+const port = process.env.PORT || 8080;
+const uri = process.env.MONGODB_URI || 'mongodb://localhost/champions';
 
 const routes = require('./api/route/route');
 mongoose.Promise = global.Promise;

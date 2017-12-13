@@ -32,7 +32,7 @@ const showChamp = (req, res) => {
       .json({ '!E': 'no champion found with that ID!' });
     return;
   }
-  Champs.findOne({ id }, (err, champ) => {
+  Champs.findOne({ champId: id }, (err, champ) => {
     res.json(champ);
   }).catch(err => {
     res.status(STATUS_USER_ERROR).json({ err });
