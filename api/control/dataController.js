@@ -33,6 +33,12 @@ const showChamp = (req, res) => {
     return;
   }
   Champs.findOne({ champId: id }, (err, champ) => {
+    if (champ === null) {
+      res.json({
+        '!E':
+          'No champion found with that ID. Remember that the IDs get kind of funky and get up to the 500s.'
+      });
+    }
     res.json(champ);
   }).catch(err => {
     res.status(STATUS_USER_ERROR).json({ err });
